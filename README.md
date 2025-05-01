@@ -88,5 +88,5 @@ This project demonstrates how a combination of SQL data modeling and Power BI vi
 
 ## 🔗 Related Projects
 
-Check out [Sales Performance Deep Dive Dashboard (Power BI Only)](link-to-other-repo) – a more detailed analysis using only Power BI and CSV data.
+Check out [Sales Performance Deep Dive Dashboard](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-) – a more detailed analysis using only Power BI and CSV data.
 
