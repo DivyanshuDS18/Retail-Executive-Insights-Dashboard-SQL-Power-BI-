@@ -50,7 +50,7 @@ The following SQL scripts were used to extract and model the data from the Adven
 | [`Dim_Product View.sql`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Dim_Product.sql) | Combines product, subcategory, and category data |
 
 Additional budget data was loaded from:
-- `SalesBudget_2023_2024.xlsx` (for comparing Actuals vs. Budget)
+- [`SalesBudget_2023_2024.xlsx`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/SalesBudget_2023_2024.xlsx) (for comparing Actuals vs. Budget)
 
 ---
 
@@ -59,13 +59,13 @@ Additional budget data was loaded from:
 | File Name | Description |
 |-----------|-------------|
 | `Retail Executive Insights Dashboard (SQL + Power BI).pbix` | Final Power BI report |
-| `Dim_Calender.sql` | SQL script for calendar |
-| `Dim_Customer.sql` | SQL script for customer data |
-| `Fact_InternetSales.sql` | SQL script for sales fact table |
-| `Dim_Product View.sql` | SQL view for product info |
-| `SalesBudget_2023_2024.xlsx` | Excel budget data |
-| `Episode 2 - Business Demand Overview & User Stories (Filled Out).docx` | User stories document |
-| `Episode 2 - Example Business Request - Mail from Steven.docx` | Business context and goals |
+| [`Dim_Calender.sql`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Dim_Calender.sql) | SQL script for calendar |
+| [`Dim_Customer.sql`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Dim_Customer.sql) | SQL script for customer data |
+| [`Fact_InternetSales.sql`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Fact_InternetSales.sql) | SQL script for sales fact table |
+| [`Dim_Product View.sql`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Dim_Product.sql) | SQL view for product info |
+| [`SalesBudget_2023_2024.xlsx`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/SalesBudget_2023_2024.xlsx) | Excel budget data |
+| [Business Demand Overview & User Stories.docx](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Business%20Demand%20Overview%20%26%20User%20Stories.docx) | User stories document |
+| [Business Request - Mail from Steven.docx](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Business%20Request%20-%20Mail%20from%20Steven.docx) | Business context and goals |
 
 ---
 
