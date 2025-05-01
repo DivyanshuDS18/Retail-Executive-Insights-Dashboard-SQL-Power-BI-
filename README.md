@@ -45,7 +45,7 @@ The following SQL scripts were used to extract and model the data from the Adven
 | File | Purpose |
 |------|---------|
 | [`Dim_Calender.sql`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Dim_Calender.sql) | Calendar/Date dimension |
-| `Dim_Customer.sql` | Customer dimension |
+| [`Dim_Customer.sql`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Dim_Customer.sql) | Customer dimension |
 | `Fact_InternetSales.sql` | Fact table for internet sales |
 | `Dim_Product View.sql` | Combines product, subcategory, and category data |
 
