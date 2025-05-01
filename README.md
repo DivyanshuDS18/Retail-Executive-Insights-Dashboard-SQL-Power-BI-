@@ -34,7 +34,7 @@ This project delivers an executive-level Power BI dashboard focused on retail sa
 ### ✅ User Stories Covered
 - Sales Manager: Overview of internet sales and performance vs. budget
 - Sales Reps: Drilldown by customer and product  
-*(See `Episode 2 - Business Demand Overview & User Stories (Filled Out).docx`)*
+*(See `[Episode 2 - Business Demand Overview & User Stories (Filled Out).docx](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Business%20Demand%20Overview%20%26%20User%20Stories.docx)`)*
 
 ---
 
