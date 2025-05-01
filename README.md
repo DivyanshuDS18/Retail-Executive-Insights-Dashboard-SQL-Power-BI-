@@ -2,7 +2,7 @@
 
 This project delivers an executive-level Power BI dashboard focused on retail sales performance. It uses SQL Server for data extraction, cleaning, and modeling, with Power BI used for visualization and interactivity. The dashboard is designed to support strategic decision-making by summarizing KPIs like revenue, profit, customer base, and product performance.
 
-[Dashboard](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Github.PNG)
+[Dashboard Preview]()
 
 ---
 
