@@ -40,7 +40,7 @@ This project delivers an executive-level Power BI dashboard focused on retail sa
 
 ## 🗃️ Data Preparation
 
-The following SQL scripts were used to extract and model the data from the `AdventureWorksDW2022` database:
+The following SQL scripts were used to extract and model the data from the AdventureWorksDW2022 database which you can download from [here](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms):
 
 | File | Purpose |
 |------|---------|
