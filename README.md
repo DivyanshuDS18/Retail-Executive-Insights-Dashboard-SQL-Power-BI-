@@ -29,12 +29,12 @@ This project delivers an executive-level Power BI dashboard focused on retail sa
 
 ### 📩 Business Request (from Sales Manager – Steven)
 > “We want to move from static reports to visual dashboards... focusing on what we’ve sold, to whom, and how sales compare over time and against budget.”  
-*(See [Episode 2 - Example Business Request - Mail from Steven.docx](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Business%20Request%20-%20Mail%20from%20Steven.docx))*
+*(See [Business Request - Mail from Steven.docx](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Business%20Request%20-%20Mail%20from%20Steven.docx))*
 
 ### ✅ User Stories Covered
 - Sales Manager: Overview of internet sales and performance vs. budget
 - Sales Reps: Drilldown by customer and product  
-*(See [Episode 2 - Business Demand Overview & User Stories (Filled Out).docx](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Business%20Demand%20Overview%20%26%20User%20Stories.docx))*
+*(See [Business Demand Overview & User Stories.docx](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Business%20Demand%20Overview%20%26%20User%20Stories.docx))*
 
 ---
 
