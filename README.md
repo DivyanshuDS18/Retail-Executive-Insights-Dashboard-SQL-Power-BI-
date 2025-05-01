@@ -58,7 +58,7 @@ Additional budget data was loaded from:
 
 | File Name | Description |
 |-----------|-------------|
-| `Retail Executive Insights Dashboard (SQL + Power BI).pbix` | Final Power BI report |
+| [`Retail Executive Insights Dashboard (SQL + Power BI).pbix`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Retail%20Executive%20Insights%20Dashboard%20(SQL%20%2B%20Power%20BI).pbix) | Final Power BI report |
 | [`Dim_Calender.sql`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Dim_Calender.sql) | SQL script for calendar |
 | [`Dim_Customer.sql`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Dim_Customer.sql) | SQL script for customer data |
 | [`Fact_InternetSales.sql`](https://github.com/DivyanshuDS18/Retail-Executive-Insights-Dashboard-SQL-Power-BI-/blob/main/Fact_InternetSales.sql) | SQL script for sales fact table |
